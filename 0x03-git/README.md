@@ -1,1 +1,1 @@
-This project is about Git
+Changes made to this file
